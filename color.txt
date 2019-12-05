@@ -8,4 +8,6 @@ pink
 navy blue
 white
 brown
-cayenne
+cyan
+azure
+
