@@ -11,3 +11,7 @@ brown
 cyan
 azure
 French rose
+Cyber yellow
+gold
+fuchsia
+
