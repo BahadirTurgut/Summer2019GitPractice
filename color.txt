@@ -10,4 +10,4 @@ white
 brown
 cyan
 azure
-
+French rose
